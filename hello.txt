@@ -1,4 +1,3 @@
 good morning!
-friends
 let's learn git
 I am Batman
